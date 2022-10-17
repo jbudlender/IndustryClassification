@@ -10,3 +10,7 @@ Key:
 - `prof` = SARS Profit Codes
 - `sic5` = Statistics South Africa Standard Industrial Classification, edition 5
 - `sic7` = Statistics South Africa Standard Industrial Classification, edition 7 (similar to ISIC-4)
+
+The following two files come directly from correspondence with Stats SA. They too should be used at your own risk:
+- `SIC edition_5 and SIC edition_7 correspondence table V1.00.xls`
+- `Changes between SIC 7 and ISIC 4.docx`
